@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd ~/workspace/tremocon
+node index.js

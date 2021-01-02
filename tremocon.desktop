@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Exec=bash -c "\$HOME/tsystem-mods/tremocon/bin/tremocon"
+Hidden=false
+NoDisplay=false
+X-GNOME-Autostart-enabled=true
+Name[en_US]=tremocon
+Name=tremocon
+Comment[en_US]=
+Comment=
